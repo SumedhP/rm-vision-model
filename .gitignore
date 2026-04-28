@@ -217,5 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-dataset_25k/
-dataset_25k.zip
+dataset/
